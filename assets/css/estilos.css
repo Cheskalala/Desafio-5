@@ -9,6 +9,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  text-shadow: 4px 4px 6px black; 
 }
 
 /* Mis trabajos */
